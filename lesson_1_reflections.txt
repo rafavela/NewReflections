@@ -1,0 +1,4 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced? Because it shows me all
+the changes I have made since the last time I completed the code, so it will show all the possible bugs that were 
+introduced to the code.
+
